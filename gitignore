@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# Excel output
+*.xlsx
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# System
+.DS_Store
+Thumbs.db
